@@ -27,4 +27,4 @@ qb-garages - For Garage App
 qb-banking - For Banking App
 screenshot-basic - For Taking Photos
 A Webhook for hosting photos (Discord or Imgur can provide this)
-Some sort of help app for your Help icon to function, just place your event for opening it in client.lua line 2403****
+Some sort of help app for your Help icon to function, just place your event for opening it in client.lua line 2403
