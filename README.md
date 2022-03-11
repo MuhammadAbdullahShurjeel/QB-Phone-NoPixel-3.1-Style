@@ -14,3 +14,17 @@ Credit Goes To vBooya For Posting this
 Original Link : https://github.com/vBooya/qb-phone-npstyle
 
 If You want Support Join My Discord : https://discord.gg/ReUd2H4BTN
+
+Dependencies
+
+Dependencies
+qb-core
+qb-policejob - MEOS, handcuff check etc.
+qb-crypto - Crypto currency trading
+qb-lapraces - Creating routes and racing
+qb-houses - House and Key Management App
+qb-garages - For Garage App
+qb-banking - For Banking App
+screenshot-basic - For Taking Photos
+A Webhook for hosting photos (Discord or Imgur can provide this)
+Some sort of help app for your Help icon to function, just place your event for opening it in client.lua line 2403****
